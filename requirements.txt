@@ -1,0 +1,10 @@
+torch>=2.0          # CPU build is fine for the pairwise/gcn settings; GPU recommended for dense/mlp
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+networkx>=3.0
+scipy>=1.10         # used by networkx Kamada-Kawai layout
+python-docx>=0.8    # reads Table 1 straight from the .docx
+matplotlib>=3.6     # training curves
+joblib
+# optional: pymatgen (non-P1 CIFs), ase (viewing/relaxing generated CIFs)
