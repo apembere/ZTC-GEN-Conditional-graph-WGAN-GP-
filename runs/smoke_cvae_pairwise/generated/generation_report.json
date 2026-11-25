@@ -1,0 +1,63 @@
+{
+  "target_properties": {
+    "HVF": 0.9078000000000002,
+    "APV": 1.26,
+    "SSA": 2592.0,
+    "Mass": 2267.62,
+    "Density": 724.6600000000001,
+    "CO2_298K": 38.760000000000005
+  },
+  "warnings": [],
+  "generated": {
+    "label": "generated",
+    "n": 8,
+    "validity": 1.0,
+    "ztc_like": 0.0,
+    "uniqueness": 1.0,
+    "mean_atoms": 143.125,
+    "mean_bonds_per_atom": 1.70490865964618,
+    "frac_atoms_valence_ok": 1.0,
+    "frac_atoms_consistent": 0.3187323300304678,
+    "frac_atoms_deg3": 0.11709798951982334,
+    "mean_largest_component": 1.0,
+    "ring_size_distribution": {
+      "3": 0.023,
+      "4": 0.343,
+      "5": 0.123,
+      "6": 0.319,
+      "7": 0.066,
+      "8": 0.06,
+      "9": 0.015,
+      "10": 0.004,
+      "open": 0.047
+    },
+    "novelty": 1.0
+  },
+  "training_reference": {
+    "label": "training",
+    "n": 1073,
+    "validity": 1.0,
+    "ztc_like": 0.9860205032618826,
+    "uniqueness": 0.9580615097856477,
+    "mean_atoms": 147.80801491146318,
+    "mean_bonds_per_atom": 1.381900297288921,
+    "frac_atoms_valence_ok": 1.0,
+    "frac_atoms_consistent": 1.0,
+    "frac_atoms_deg3": 0.815233002280408,
+    "mean_largest_component": 1.0,
+    "ring_size_distribution": {
+      "3": 0.007,
+      "4": 0.012,
+      "5": 0.162,
+      "6": 0.611,
+      "7": 0.113,
+      "8": 0.02,
+      "9": 0.006,
+      "10": 0.002,
+      "11": 0.001,
+      "12": 0.001,
+      "open": 0.064
+    }
+  },
+  "cifs_written": 3
+}

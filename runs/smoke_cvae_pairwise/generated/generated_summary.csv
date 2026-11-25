@@ -1,0 +1,9 @@
+id,n_atoms,n_bonds,valid,ztc_like,novel,duplicate,frac_deg3,wl_hash,cif,cell_a,min_nonbonded_A
+gen_0000,145,247,True,False,True,False,0.138,9418d3f355467ba00288683dce4a2049,cif/gen_0000_novel.cif,16.604,0.767
+gen_0001,143,246,True,False,True,False,0.112,c3a4855eedb08e1eacd6cdfdf04b75d8,cif/gen_0001_novel.cif,17.12,0.933
+gen_0002,142,242,True,False,True,False,0.127,56d092017a99a2d1406c66f7dc71d2fa,cif/gen_0002_novel.cif,17.713,0.839
+gen_0003,141,241,True,False,True,False,0.121,fefaf963203726238e123a592baed204,,,
+gen_0004,144,242,True,False,True,False,0.111,1cb0266319e2339ca545ad5ac77aaaad,,,
+gen_0005,145,245,True,False,True,False,0.097,0e43385bd0af91bbf0009b562829af1b,,,
+gen_0006,144,245,True,False,True,False,0.097,bee7cb6fe0a18017fc1f4e04004d6587,,,
+gen_0007,141,244,True,False,True,False,0.135,987e301eff21c84da6db0123aac72c9d,,,
