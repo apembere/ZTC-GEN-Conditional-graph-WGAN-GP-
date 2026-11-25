@@ -1,0 +1,92 @@
+{
+  "nmax": 150,
+  "n_features": 19,
+  "feature_blocks": [
+    [
+      "atom_type",
+      5,
+      "onehot"
+    ],
+    [
+      "degree",
+      5,
+      "onehot"
+    ],
+    [
+      "hybridization",
+      4,
+      "onehot"
+    ],
+    [
+      "aromatic",
+      1,
+      "binary"
+    ],
+    [
+      "valence",
+      1,
+      "scalar"
+    ],
+    [
+      "num_h",
+      1,
+      "scalar"
+    ],
+    [
+      "atomic_number",
+      1,
+      "scalar"
+    ],
+    [
+      "mass",
+      1,
+      "scalar"
+    ]
+  ],
+  "bond_types": [
+    "single",
+    "double",
+    "triple",
+    "aromatic"
+  ],
+  "atom_types": [
+    "none",
+    "C",
+    "H",
+    "N",
+    "O"
+  ],
+  "hybridization": [
+    "none",
+    "sp",
+    "sp2",
+    "sp3"
+  ],
+  "bond_cutoff": 1.8,
+  "property_columns": [
+    "HVF",
+    "APV",
+    "SSA",
+    "Mass",
+    "Density",
+    "CO2_298K"
+  ],
+  "scaler_mean": [
+    0.7806470588235292,
+    0.8056323529411766,
+    1830.5014705882356,
+    3242.5352941176466,
+    1059.7220588235298,
+    26.564999999999994
+  ],
+  "scaler_scale": [
+    0.17928540873553295,
+    0.28493022388419764,
+    613.2103536242315,
+    1830.9373792392523,
+    265.68183971544755,
+    9.148333101139889
+  ],
+  "n_graphs": 1073,
+  "n_structures": 68
+}
